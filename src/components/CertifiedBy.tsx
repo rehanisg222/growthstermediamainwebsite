@@ -4,7 +4,7 @@ const CertifiedBy: React.FC = () => {
   const certifications = [
     {
       name: "Google Partner",
-      logo: "https://www.growthstermedia.com/lovable-uploads/d43d5fdc-2d84-4a54-bda3-0e48db3a7594.png"
+      logo: "https://seamless-schedule-hub-21-5fa99ac9.vercel.app/lovable-uploads/d43d5fdc-2d84-4a54-bda3-0e48db3a7594.png"
     },
     {
       name: "Meta Business Partner",
