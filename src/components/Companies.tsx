@@ -20,7 +20,7 @@ const Companies: React.FC = () => {
     },
     {
       name: "Kickofy",
-      logo: "https://images.pexels.com/photos/18711363/pexels-photo-18711363.png",
+      logo: "https://postimg.cc/jwqZGWcc",
     }
   ];
 
