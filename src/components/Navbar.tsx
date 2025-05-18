@@ -10,7 +10,11 @@ const Navbar: React.FC = () => {
     <nav className="fixed top-0 left-0 right-0 bg-gradient-to-r from-black/90 to-purple-950/90 backdrop-blur-sm z-50">
       <div className="container mx-auto px-4 py-4 flex justify-between items-center">
         <div className="flex items-center">
-          <AlchemyLogo className="h-12 w-auto" />
+          <img 
+            src="https://i.postimg.cc/q7g50B6S/image-2025-05-18-205229371.png"
+            alt="Growthstermedia Logo"
+            className="h-12 w-auto mr-3"
+          />
         </div>
         
         <button 
@@ -23,5 +27,3 @@ const Navbar: React.FC = () => {
     </nav>
   );
 };
-
-export default Navbar;
