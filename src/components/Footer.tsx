@@ -13,10 +13,10 @@ const Footer: React.FC = () => {
           
           <div className="flex flex-col space-y-2 md:space-y-0 md:flex-row md:space-x-8 text-gray-400">
             <a href="#" className="hover:text-pink-500 transition-colors">Home</a>
-            <a href="#" className="hover:text-pink-500 transition-colors">Services</a>
-            <a href="#" className="hover:text-pink-500 transition-colors">Case Studies</a>
+          
+            
             <a href="#" className="hover:text-pink-500 transition-colors">About</a>
-            <a href="#" className="hover:text-pink-500 transition-colors">Contact</a>
+            
           </div>
         </div>
         
