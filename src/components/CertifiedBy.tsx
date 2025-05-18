@@ -13,7 +13,7 @@ const CertifiedBy: React.FC = () => {
   ];
 
   return (
-    <section className="py-16 bg-gradient-to-b from-purple-950/20 to-black">
+    <section className="py-18 bg-gradient-to-b from-purple-950/20 to-black">
       <div className="container mx-auto px-4">
         <h2 className="text-3xl font-bold text-center text-white mb-12">
           Certified By
