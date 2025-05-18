@@ -8,7 +8,7 @@ const Companies: React.FC = () => {
     },
     {
       name: "Educate",
-      logo: "https://images.pexels.com/photos/18711357/pexels-photo-18711357.png",
+      logo: "https://postimg.cc/xkgHmXPw",
     },
     {
       name: "Acquisition",
