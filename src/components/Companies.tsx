@@ -4,7 +4,7 @@ const Companies: React.FC = () => {
   const companies = [
     {
       name: "Beastgrip",
-      logo: "https://images.pexels.com/photos/18711355/pexels-photo-18711355.png",
+      logo: "https://i.postimg.cc/ZY3ZSh97/image-2025-05-18-171440955.png",
     },
     {
       name: "Educate",
