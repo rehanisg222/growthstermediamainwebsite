@@ -27,7 +27,7 @@ const Stats: React.FC = () => {
             <h2 className="text-3xl md:text-4xl font-bold mb-6 text-white">
               TOTAL REVENUE<br />GENERATED
             </h2>
-            <p className="text-5xl md:text-7xl font-bold text-pink-500 mb-12">$800,000</p>
+            <p className="text-5xl md:text-7xl font-bold text-pink-500 mb-12">$1,100,000</p>
             
             <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
               <StatBox title="APPOINTMENTS BOOKED" value="500+" />
