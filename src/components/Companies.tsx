@@ -22,7 +22,7 @@ const Companies: React.FC = () => {
       name: "Kickofy",
       logo: "https://i.postimg.cc/50LTQLFh/image-2025-05-18-171858482.png",
     },
-     {
+    {
       name: "Flozy",
       logo: "https://i.postimg.cc/zXBDsKXk/image-2025-05-18-203446912.png",
     },
@@ -35,8 +35,8 @@ const Companies: React.FC = () => {
           Companies That <span className="text-pink-500">Trust Us</span>
         </h2>
         
-        <div className="max-w-6xl mx-auto">
-          <div className="grid grid-cols-1 md:grid-cols-3 lg:grid-cols-5 gap-16 items-center">
+        <div className="max-w-5xl mx-auto">
+          <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-16 items-center">
             {companies.map((company, index) => (
               <div 
                 key={company.name}
@@ -49,7 +49,7 @@ const Companies: React.FC = () => {
                 <img 
                   src={company.logo} 
                   alt={`${company.name} logo`}
-                  className="h-100 w-auto object-contain filter brightness-0 invert opacity-90 hover:opacity-100 transition-opacity duration-300"
+                  className="h-16 w-auto object-contain filter brightness-0 invert opacity-90 hover:opacity-100 transition-opacity duration-300"
                 />
               </div>
             ))}
