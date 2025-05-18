@@ -49,7 +49,7 @@ const Companies: React.FC = () => {
                 <img 
                   src={company.logo} 
                   alt={`${company.name} logo`}
-                  className="h-16 w-auto object-contain filter brightness-0 invert opacity-90 hover:opacity-100 transition-opacity duration-300"
+                  className="h-40 w-auto object-contain filter brightness-0 invert opacity-90 hover:opacity-100 transition-opacity duration-300"
                 />
               </div>
             ))}
