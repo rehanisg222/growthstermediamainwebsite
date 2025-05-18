@@ -22,7 +22,7 @@ const Footer: React.FC = () => {
         
         <div className="mt-8 pt-8 border-t border-gray-800 flex flex-col md:flex-row justify-between items-center">
           <p className="text-gray-500 text-sm">
-            © {new Date().getFullYear()} Modern Day Alchemy. All rights reserved.
+            © {new Date().getFullYear()} Growthstermedia. All rights reserved.
           </p>
           
           <div className="mt-4 md:mt-0 flex space-x-6">
