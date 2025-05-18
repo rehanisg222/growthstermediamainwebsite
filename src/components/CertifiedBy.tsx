@@ -32,7 +32,7 @@ const CertifiedBy: React.FC = () => {
               <img 
                 src={cert.logo} 
                 alt={`${cert.name} logo`}
-                className="h-15 w-auto"
+                className="h-14 w-auto"
               />
             </div>
           ))}
