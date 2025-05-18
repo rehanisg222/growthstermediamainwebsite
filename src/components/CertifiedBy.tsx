@@ -8,7 +8,7 @@ const CertifiedBy: React.FC = () => {
     },
     {
       name: "Meta Business Partner",
-      logo: "https://www.growthstermedia.com/lovable-uploads/62fc26b6-9ee5-423e-b210-ad0b05a2f459.png"
+      logo: "https://seamless-schedule-hub-21-5fa99ac9.vercel.app/lovable-uploads/62fc26b6-9ee5-423e-b210-ad0b05a2f459.png"
     }
   ];
 
