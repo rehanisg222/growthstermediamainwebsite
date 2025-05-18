@@ -31,7 +31,7 @@ const Stats: React.FC = () => {
             
             <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
               <StatBox title="APPOINTMENTS BOOKED" value="500+" />
-              <StatBox title="TOTAL AD SPEND" value="$11K" />
+              <StatBox title="TOTAL AD SPEND" value="$71K" />
               <StatBox title="OFFICES" value="0" />
               <StatBox title="SERVICES OFFER" value="1" />
             </div>
